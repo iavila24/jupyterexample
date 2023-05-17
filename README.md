@@ -1,4 +1,4 @@
-# Jupyte notebook example 🐍
+# Jupyter Notebook 🐍
 
 Sólo un ejemplo de Jupyter Notebook para repasar sus principales funcionalidades y características.
 
